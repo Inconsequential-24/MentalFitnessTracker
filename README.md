@@ -6,3 +6,5 @@ https://drive.google.com/file/d/1jOKpFtG5c5a_DSTpgDBvgm5u3SRVajGn/view?usp=shari
 Both Decision Tree Regressor Model and Random Forest Regressor Models have good successfull rates, but Random Forest Regressor had lower Failure Rates as well, so we make our Model using Random Forest Regressors. 
 
 Colab Link: https://colab.research.google.com/drive/1lNTndh56JeIDp9GF9iQvu6cXrH3IjIz5?usp=sharing
+
+The .py files comprises of the Data Visualization, Model Creation, and Model Evaluation codes. The .csv files are the dataset on which the model has been trained. 
